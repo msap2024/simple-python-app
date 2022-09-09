@@ -13,6 +13,7 @@
 # limitations under the License.
 
 # [START hello-app]
+
 from flask import Flask
 app = Flask('hello-cloudbuild')
 
